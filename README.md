@@ -83,13 +83,6 @@ Simulate keyboard input using motion sensors to create a fun and interactive phy
 
 ---
 
-## 🎬 Demo
-
-📷 Image
-
-🎥 GIF
-
----
 
 ## 🧪 Challenges Faced
 
